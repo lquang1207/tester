@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestEmail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>46c87da6-7efd-4d11-ace3-173807634aa4</testSuiteGuid>
+   <testCaseLink>
+      <guid>b1b38124-924b-4ee1-9033-c430cb5b7139</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>835882d5-04ba-4d16-8e11-d915172021db</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/list email</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a45050a9-9620-4b93-a7c0-0df5ab39f11f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ddf3f02f-ee47-4d07-adc2-8008821bd025</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>91c22fc6-1136-4791-8137-ad1b080e2d96</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>97969124-eae3-449b-8849-05c811dae079</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>43bdd128-bff7-4ae9-a6e1-74ca5b055839</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>835882d5-04ba-4d16-8e11-d915172021db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>b2603afa-f7ba-40dd-b90a-84b4ab145c0b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
